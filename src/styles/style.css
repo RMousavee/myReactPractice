@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
+  
+  /* .accordion {
+    width: 98%;
+    margin: 2rem auto;
+    background-color: rgb(44, 121, 253);
+    border-radius: 5px 5px 0 0;
+    color: white;
+  }
+  
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  
+
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  } */
